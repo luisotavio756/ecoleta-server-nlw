@@ -22,8 +22,6 @@
 
 ## :rocket: Technologies
 
-This project was developed in Personal Project join Flaviano, my friend, with the following technologies:
-
 -  [Node.js](https://nodejs.org)
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [Multer](https://github.com/expressjs/multer)
