@@ -1,0 +1,9 @@
+node_modules
+uploads/*
+!uploads/.gitkepp
+
+src/database/database.sqlite
+
+package-lock.json
+
+*.sqlite
